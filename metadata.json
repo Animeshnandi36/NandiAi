@@ -1,0 +1,6 @@
+{
+  "name": "NandiAI",
+  "description": "All-in-one AI platform developed by Animesh Nandi featuring real-time AI Chat, Image Generation, Chart Generator, Image/File Analyzer, and Code Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
